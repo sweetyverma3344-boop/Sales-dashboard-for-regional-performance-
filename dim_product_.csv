@@ -1,0 +1,33 @@
+product_id,product_name,category,unit_price,unit_cost_pct
+1,Electronics Item 1,Electronics,8178.51,0.740142861
+2,Electronics Item 2,Electronics,10305.36,0.669731697
+3,Electronics Item 3,Electronics,6878.31,0.581198904
+4,Electronics Item 4,Electronics,6295.6,0.723235229
+5,Furniture Item 1,Furniture,6948.84,0.691614516
+6,Furniture Item 2,Furniture,4429.34,0.74398197
+7,Furniture Item 3,Furniture,7952.8,0.592467822
+8,Furniture Item 4,Furniture,5129.12,0.586680902
+9,Clothing Item 1,Clothing,1095.56,0.654951286
+10,Clothing Item 2,Clothing,1202.83,0.608245828
+11,Clothing Item 3,Clothing,1353.96,0.577898772
+12,Clothing Item 4,Clothing,1085.4,0.623272369
+13,Groceries Item 1,Groceries,458.66,0.707035192
+14,Groceries Item 2,Groceries,377.9,0.652846888
+15,Groceries Item 3,Groceries,501.61,0.559290083
+16,Groceries Item 4,Groceries,506.38,0.584104825
+17,Sports Item 1,Sports & Fitness,1640.18,0.739777107
+18,Sports Item 2,Sports & Fitness,3027.07,0.71167947
+19,Sports Item 3,Sports & Fitness,2009.11,0.569534423
+20,Sports Item 4,Sports & Fitness,2593.72,0.638030499
+21,Books Item 1,Books & Stationery,392.71,0.649035382
+22,Books Item 2,Books & Stationery,362.04,0.73186408
+23,Books Item 3,Books & Stationery,440.57,0.682504457
+24,Books Item 4,Books & Stationery,459.1,0.654013604
+25,Home Item 1,Home Decor,1948.85,0.586970891
+26,Home Item 2,Home Decor,2481.68,0.705026565
+27,Home Item 3,Home Decor,2443.77,0.72896547
+28,Home Item 4,Home Decor,2013.35,0.734374847
+29,Beauty Item 1,Beauty & Personal Care,685.75,0.589196572
+30,Beauty Item 2,Beauty & Personal Care,658.49,0.615066066
+31,Beauty Item 3,Beauty & Personal Care,874.87,0.604269806
+32,Beauty Item 4,Beauty & Personal Care,1152.1,0.621350665
